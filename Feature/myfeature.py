@@ -5,7 +5,7 @@ def greet(name: str) -> str:
     :param name: The name to greet
     :return: A greeting string
     """
-    return f"Hello, {name}
+    return f"Hello, {name}!"
 
 if __name__ == "__main__":
     user_name = input("Enter your name: ")
